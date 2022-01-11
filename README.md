@@ -1,12 +1,12 @@
 <h1 align="center">Hello there! I'm Cris 🤖</h1>
 
-- 🔭 I’m currently working on [Fumosite 2.0](https://fumosite.gatsbyjs.io/)
+- 🔭 I’m currently working in the [Fumosite 2.0](https://fumosite.gatsbyjs.io/) project.
 
-- 🌱 I’m currently learning **React.js, Gatsby and Tailwind Css, all by myself ^^**
+- 🌱 I’m currently learning **React.js, Gatsby and Tailwind Css, all by myself. ^^**
 
 - 💬 Ask me about **Anything! I'll help if i can.**
 
-- 📫 How to reach me **Crisis1882@gmail.com**
+- 📫 How to reach me **Crisis1882@gmail.com.**
 
 - ⚡ Fun fact **I play Genshin Impact :p**
 
