@@ -1,4 +1,5 @@
 <h1 align="center">Hello there! I'm Cris 🤖</h1>
+
 - 🔭 I’m currently working on [Fumosite 2.0](https://fumosite.gatsbyjs.io/)
 
 - 🌱 I’m currently learning **React.js, Gatsby and Tailwind Css, all by myself ^^**
