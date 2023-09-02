@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cris</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<h1 align="center">Hi 👋, I'm Cris</h1>
-<h3 align="center">Frontend Developer</h3>
-
 - 🔭 I’m currently working on **The Yugioh Collection Manager**
 
 - 🌱 I’m currently learning **UI/UX**
